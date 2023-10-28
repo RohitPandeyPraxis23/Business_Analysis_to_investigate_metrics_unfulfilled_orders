@@ -27,12 +27,13 @@ The data_offers data set is a simple map with 2 columns:
 
 **offer_id** - ID of an offer
 
+In the Dataset we examine the following -
 
-**1.Build up distribution of orders according to reasons for failure: cancellations before and after driver assignment.
-**
-**2.We seek to examine if there are any trends in order cancellations by the hour in which it is cancelled.
-**
-**3.We **seek** to examine cancellation status based on driver assigned status and by the hour in which an order is cancelled.
-**
-**4.We seek to examine presence of trend if any in the Average ETA for any order.
-**
+1.Build up distribution of orders according to reasons for failure: cancellations before and after driver assignment.
+
+2.We seek to examine if there are any trends in order cancellations by the hour in which it is cancelled.
+
+3.We seek to examine cancellation status based on driver assigned status and by the hour in which an order is cancelled.
+
+4.We seek to examine presence of trend if any in the Average ETA for any order.
+
